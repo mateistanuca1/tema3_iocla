@@ -1,0 +1,14 @@
+#Matei Stanuca - 312CC
+Task 1:
+	Pun pe stiva fiecare paranteza deschisa, dupa care, cand intalnesc o 
+	paranteza inchisa, scot ultima paranteza de pe stiva, si vad daca
+	cele doua paranteze se potrivesc.(tin in ecx cate elemente am pe stiva,
+	ca sa pot sa le scot la final).
+Task 2:
+Subtask 1 & 2:
+	Am preluat codul in C si l-am transformat manual in Limbaj de Asamblare. 
+	La quick sort am implementat eu local functiile swap si partition.
+Task 3:
+	Verific daca nodul este deja vizitat, iar daca nu, il marchez ca vizitat.
+	Afisez nodul, dupa apelez functia data ca parametru, si fac un for in
+	care apelez functia de DFS pentru fiecare fiu.
